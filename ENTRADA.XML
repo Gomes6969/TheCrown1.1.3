@@ -1,12 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
 <channels>
-	<!-- opicional -->  
 
 <channel>
 <name>[B][COLOR red] =======[/COLOR] [COLOR yellow] SEJAM BEM VINDOS ao Addon TheCrown by R.O [B][COLOR red] ======= [/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/fanart-2_202405/fanart%20%282%29.jpg</thumbnail>
 <fanart>https://archive.org/download/fanart-2_202405/fanart%20%282%29.jpg</fanart>
-<info>[COLOR blue] [COLOR blue] Sejam  Bem vindos ao TheCrown1.1.3 [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/Gomes6969/TheCrown1.1.3/main/ENTRADA.XML</externallink>
+<info>[COLOR blue] [COLOR blue] Sejam  Bem vindos ao TheCrown [/COLOR]</info>
+<externallink>https://github.com/rob1366/Addon-the-crown/blob/main/ENTRADA.XML</externallink>
+
+</channel>
+
 
 
 </channels>
